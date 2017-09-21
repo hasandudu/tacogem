@@ -10,4 +10,4 @@ Dudu, H., 2013, Climate Change, Agriculture And Trade Policy: A CGE Analysis at 
 If you are interested in using any part of the model please properly cite the source as: 
 Dudu, H., Turkish Agricultural CGE Model - Regional & Static (TACoGEM-RS), [Software] Available from https://github.com/economystic/tacogem/ 
 
-If you find bugs or errors or for any other inquiries please send an email to: hasan@dudu.gen.tr 
+If you find bugs or errors please send an email to hasan@dudu.gen.tr or create an issue ticket on issue tracker of this repository by logging into github.  
