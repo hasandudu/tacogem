@@ -1,2 +1,19 @@
 syntax: glob
 ~$*.*
+*.gdx
+*.g00
+*.dat
+*.~in
+*.gpr
+*.$$$
+*.lst
+*.tmp
+*.~gm
+*.log
+*.lxi
+*.~??
+*.gdx
+untitled*.gms
+*.ref
+*.g00
+*.bak
