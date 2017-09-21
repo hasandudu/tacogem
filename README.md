@@ -1,5 +1,4 @@
-# tacogem
-Turkish Agricultural CGE Model - Regional & Static (TACoGEM-RS)
+# Turkish Agricultural CGE Model - Regional & Static (TACoGEM-RS)
 
 This model & the underlying Social Accounting Matrix (SAM) is developed during the PhD of Hasan Dudu between 2009-2013. It is made open source under MIT licence on 2017. This version of the model is used for the publication 
 Dudu, H., Cakmak E.H., 2017. Climate Change and Agriculture: An Integrated Approach to Evaluate Economy-wide Effects for Turkey. Climate and Development, doi:10.1080/17565529.2017.1372259.
